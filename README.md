@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maddu Silva
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora Web Front-end`**
 
 Me chamo Maria Eduarda da Silva, tenho 24 anos. Sou uma desenvolvedora web autodidata que está começando no mundo do freelancing. Aqui no GitHub compartilho meus projetos, estudos e experimentações. Tudo voltado para construir soluções criativas, funcionais e com identidade.
 
